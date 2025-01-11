@@ -1,4 +1,3 @@
-# 💫 About Me:
 Web Developer
 
 ## 🏆 GitHub Trophies
